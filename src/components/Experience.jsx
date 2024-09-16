@@ -26,7 +26,7 @@ export default function Experience() {
     {
       position: "Стажёр Front-End разработчик",
       accelerator: "акселератор навыков Илмхона",
-      period: "ИЮЛЬ 2024 - СЕНТЯБРЬ 2024",
+      period: "ИЮЛЬ 2024 - Н.В.",
       details: Ilmhona,
     },
   ];
